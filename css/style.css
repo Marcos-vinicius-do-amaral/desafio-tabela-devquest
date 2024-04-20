@@ -1,0 +1,15 @@
+* body {
+    margin: 0;
+}
+
+.produto-moda {
+    background-color: #bb86fc;
+}
+
+.produto-casa {
+    background-color: #00c4b4;
+}
+
+td {
+    background-color: #424250;
+}
